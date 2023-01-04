@@ -6,6 +6,7 @@
         <td v-for="cell in line" :key="cell" :class="{alive: cell==1}"></td>
       </tr>
     </table>
+    <h3>Conway's Game of Life - Versão 1.0</h3>
   </div>
 </template>
 
