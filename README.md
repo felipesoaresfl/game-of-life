@@ -21,9 +21,10 @@ The Game of Life is a cellular automaton developed by British mathematician John
 
 ## Setup guide
 
+### Python Version
+
 ```bash
 
-Python Version 
 
 cd pylife
 
@@ -31,10 +32,9 @@ pip install -r requirements.txt
 
 python life.py
 ```
+### Vue Version 
 
 ```bash
-
-Vue Version 
 
 cd vuelife
 
