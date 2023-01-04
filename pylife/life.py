@@ -4,8 +4,8 @@ import numpy
 
 COLOR_BACKGROUND = (0, 0, 0)
 COLOR_GRID = (110, 110, 110)
-COLOR_DYING = (174, 97, 250)
-COLOR_ALIVE = (72, 61, 139)
+COLOR_DYING = (127, 255, 0)
+COLOR_ALIVE = (50, 205, 50)
 
 pygame.display.set_caption("PyGame of Life - Felipe Soares")
 
