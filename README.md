@@ -1,4 +1,4 @@
-# game-of-life
+# Game of life
 
 Game of Life implementations with Python & Vue.js :)
 
