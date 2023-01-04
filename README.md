@@ -18,3 +18,29 @@ The Game of Life is a cellular automaton developed by British mathematician John
 - Each cell with three neighbors becomes populated.
 
 </details>
+
+## Setup guide
+
+```bash
+
+Python Version 
+
+cd pylife
+
+pip install -r requirements.txt
+
+python life.py
+```
+
+```bash
+
+Vue Version 
+
+cd vuelife
+
+nvm use # if you have node version manager
+npm install
+
+# for local initialization
+npm run serve
+```
