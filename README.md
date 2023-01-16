@@ -19,14 +19,11 @@ The Game of Life is a cellular automaton developed by British mathematician John
 
 </details>
 
-### [Vue version](https://felipesoaresfl.github.io/game-of-life/)
-
 ## Setup guide
 
 ### Python Version
 
 ```bash
-
 
 cd pylife
 
@@ -34,7 +31,13 @@ pip install -r requirements.txt
 
 python life.py
 ```
-### Vue Version 
+
+- Select cells and click space to start or pause. <br>
+
+![Cellular automoto in python made by Felipe Soares](assets/pylife.gif "Cellular automaton in python")
+Inspired by: [NeuralNine](https://www.youtube.com/watch?v=cRWg2SWuXtM)
+
+### [Vue version](https://felipesoaresfl.github.io/game-of-life/)
 
 ```bash
 
@@ -46,3 +49,5 @@ npm install
 # for local initialization
 npm run serve
 ```
+![Cellular automoto in Vue.js made by Felipe Soares](assets/vuelife.gif "Cellular automaton in Vuejs") <br>
+Inspired by: [Tony Lâmpada](https://www.youtube.com/watch?v=Wzx1Lg035F4)
