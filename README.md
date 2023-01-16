@@ -19,6 +19,8 @@ The Game of Life is a cellular automaton developed by British mathematician John
 
 </details>
 
+### [Vue version](https://felipesoaresfl.github.io/game-of-life/)
+
 ## Setup guide
 
 ### Python Version
